@@ -22,5 +22,5 @@ Cowsay should be available in the nix-shell, and if you exit the nix-shell (by w
 This is part of the Nix package manager and not neccessarily to do with NixOS.
 Nix can be used on any Linux distro and is not limited to NixOS.
 
-
+##
 
